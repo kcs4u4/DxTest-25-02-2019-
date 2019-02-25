@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "Test_module",
+    "default" : true,
+    "package" : "Test_module",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "45.0",
+  "packageAliases" : {
+    "Test_module" : "0Ho0o000000003jCAA",
+    "Test_module@1.0.0.0" : "04t0o0000025IxUAAU"
+  }
+}
