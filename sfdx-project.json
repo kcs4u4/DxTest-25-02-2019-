@@ -1,8 +1,14 @@
 {
   "packageDirectories" : [ {
     "path" : "Test_module",
-    "default" : true,
+    "default" : false,
     "package" : "Test_module",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "Module_Test",
+    "default" : true,
+    "package" : "Module_Test",
     "versionName" : "ver 0.1",
     "versionNumber" : "0.1.0.NEXT"
   } ],
@@ -11,6 +17,8 @@
   "sourceApiVersion" : "45.0",
   "packageAliases" : {
     "Test_module" : "0Ho0o000000003jCAA",
-    "Test_module@1.0.0.0" : "04t0o0000025IxUAAU"
+    "Test_module@1.0.0.0" : "04t0o0000025IxUAAU",
+    "Module_Test" : "0Ho0o0000000043CAA",
+    "Module_Test@1.0.0.0" : "04t0o0000025x1NAAQ"
   }
 }
