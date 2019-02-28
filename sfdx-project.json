@@ -6,8 +6,14 @@
     "versionName" : "ver 0.1",
     "versionNumber" : "0.1.0.NEXT"
   }, {
+    "path" : "Test_module",
+    "default" : false,
+    "package" : "Test_module",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
     "path" : "Module_test2",
-    "default" : true,
+    "default" : false,
     "package" : "Module_test2",
     "versionName" : "ver 0.1",
     "versionNumber" : "0.1.0.NEXT",
@@ -16,11 +22,11 @@
       "versionNumber" : "1.0.0.0"
     } ]
   }, {
-    "path" : "Test_module",
-    "default" : false,
-    "package" : "Test_module",
-    "versionName" : "ver 0.1",
-    "versionNumber" : "0.1.0.NEXT"
+    "path" : "Test_module28022019",
+    "default" : true,
+    "package" : "Test_module28022019",
+    "versionName" : "Test_module28022019",
+    "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -31,6 +37,8 @@
     "Module_Test" : "0Ho0o0000000043CAA",
     "Module_Test@1.0.0.0" : "04t0o0000025x1NAAQ",
     "Module_test2" : "0Ho0o0000000048CAA",
-    "Module_test2@1.0.0.0" : "04t0o0000025xM6AAI"
+    "Module_test2@1.0.0.0" : "04t0o0000025xM6AAI",
+    "Test_module28022019" : "0Ho0o000000004NCAQ",
+    "Test_module28022019@1.0.0.0" : "04t0o0000026FhCAAU"
   }
 }
