@@ -1,5 +1,11 @@
 {
   "packageDirectories" : [ {
+    "path" : "Sanity_Srinu",
+    "default" : false,
+    "package" : "Sanity_Srinu",
+    "versionName" : "Sanity_Srinu",
+    "versionNumber" : "1.0.0.0"
+  }, {
     "path" : "Sanity_Srinu2",
     "default" : true,
     "package" : "Sanity_Srinu2",
@@ -12,9 +18,16 @@
   }, {
     "path" : "Sanity_Srinu",
     "default" : false,
-    "package" : "Sanity_Srinu",
-    "versionName" : "Sanity_Srinu",
-    "versionNumber" : "1.0.0.0"
+    "package" : "Test_Goud",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT",
+    "dependencies" : [ {
+      "package" : "Sanity_Srinu",
+      "versionNumber" : "1.0.0.0"
+    }, {
+      "package" : "Sanity_Srinu2",
+      "versionNumber" : "1.0.0.0"
+    } ]
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -23,6 +36,7 @@
     "Sanity_Srinu" : "0Ho1U000000KyqMSAS",
     "Sanity_Srinu@1.0.0.0" : "04t1U0000068AGQQA2",
     "Sanity_Srinu2" : "0Ho1U000000KyqRSAS",
-    "Sanity_Srinu2@1.0.0.0" : "04t1U0000068AKiQAM"
+    "Sanity_Srinu2@1.0.0.0" : "04t1U0000068AKiQAM",
+    "Test_Goud" : "0Ho1U000000KyqWSAS"
   }
 }
