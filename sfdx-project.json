@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "Sanity_Test",
+    "default" : true,
+    "package" : "Sanity_Test",
+    "versionName" : "Sanity_Test",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "45.0",
+  "packageAliases" : {
+    "Sanity_Test" : "0Ho7F0000008OSySAM",
+    "Sanity_Test@1.0.0.0" : "04t7F000005Z9EfQAK"
+  }
+}
