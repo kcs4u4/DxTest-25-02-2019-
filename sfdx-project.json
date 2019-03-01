@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "Sanity_Srinu",
+    "default" : true,
+    "package" : "Sanity_Srinu",
+    "versionName" : "Sanity_Srinu",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "45.0",
+  "packageAliases" : {
+    "Sanity_Srinu" : "0Ho1U000000KyqMSAS",
+    "Sanity_Srinu@1.0.0.0" : "04t1U0000068AGQQA2"
+  }
+}
