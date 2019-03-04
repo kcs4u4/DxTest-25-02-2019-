@@ -1,11 +1,5 @@
 {
   "packageDirectories" : [ {
-    "path" : "Sanity_Srinu",
-    "default" : false,
-    "package" : "Sanity_Srinu",
-    "versionName" : "Sanity_Srinu",
-    "versionNumber" : "1.0.0.0"
-  }, {
     "path" : "Sanity_Srinu2",
     "default" : true,
     "package" : "Sanity_Srinu2",
@@ -15,6 +9,12 @@
       "package" : "Sanity_Srinu",
       "versionNumber" : "1.0.0.0"
     } ]
+  }, {
+    "path" : "Sanity_Srinu",
+    "default" : false,
+    "package" : "Sanity_Srinu",
+    "versionName" : "Sanity_Srinu",
+    "versionNumber" : "1.0.0.0"
   }, {
     "path" : "Sanity_Srinu",
     "default" : false,
@@ -37,6 +37,7 @@
     "Sanity_Srinu@1.0.0.0" : "04t1U0000068AGQQA2",
     "Sanity_Srinu2" : "0Ho1U000000KyqRSAS",
     "Sanity_Srinu2@1.0.0.0" : "04t1U0000068AKiQAM",
-    "Test_Goud" : "0Ho1U000000KyqWSAS"
+    "Test_Goud" : "0Ho1U000000KyqWSAS",
+    "Sanity_Srinu@1.0.0.1" : "04t1U0000068oxZQAQ"
   }
 }
